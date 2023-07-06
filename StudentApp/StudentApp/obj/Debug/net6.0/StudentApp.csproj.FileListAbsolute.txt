@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.AssemblyInfo.cs
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.exe
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.deps.json
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.runtimeconfig.json
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.dll
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\bin\Debug\net6.0\StudentApp.pdb
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.dll
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\refint\StudentApp.dll
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.pdb
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\StudentApp.genruntimeconfig.cache
+C:\Users\User\Desktop\MyCode\Csharp_Homework\Csharp_OOP\StudentApp\StudentApp\obj\Debug\net6.0\ref\StudentApp.dll
