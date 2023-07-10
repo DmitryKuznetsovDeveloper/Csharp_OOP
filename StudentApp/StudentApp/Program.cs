@@ -29,6 +29,7 @@ namespace StudentApp
             Console.WriteLine(new string('=',50));
             //Выводим список учителей
             teacherService.ShowListTeacher(teacherService.ListValue);
+            Console.WriteLine(new string('=',50));
             
             // Создание Сущностей студентов
             Student s1 = new Student("Иван", 25, 121);
@@ -56,15 +57,18 @@ namespace StudentApp
             emploeeService.ListValue.Add(e2);
             emploeeService.ListValue.Add(e3);
             emploeeService.ListValue.Add(e4);
-
+            
+            //Средний возраст учителей
             AverageAge<Teacher> averageAgeTeacher = new AverageAge<Teacher>();
             averageAgeTeacher.InfoAverageAge(teacherService.ListValue);
             Console.WriteLine($"У преподователей {averageAgeTeacher}");
             
+            //Средний возраст студентов
             AverageAge<Student> averageAgeStudent = new AverageAge<Student>();
             averageAgeStudent.InfoAverageAge(studentService.ListValue);
             Console.WriteLine($"У студентов {averageAgeStudent}");
             
+            //Средний возраст работников
             AverageAge<Employee> averageAgeEmployee = new AverageAge<Employee>();
             averageAgeEmployee.InfoAverageAge(emploeeService.ListValue);
             Console.WriteLine($"У работников {averageAgeStudent}");
