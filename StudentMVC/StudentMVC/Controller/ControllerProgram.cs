@@ -4,11 +4,12 @@ namespace StudentMVC.Controller;
 
 public class ControllerProgram
 {
+    // поля
     private IGetModel _model;
     private IGetView _view;
     private ILabelMenu _labelMenu;
     private ILabelStudent _labelStudent;
-
+    // конструктор
     public ControllerProgram(IGetModel model, IGetView view, ILabelMenu labelMenu, ILabelStudent labelStudent) {
         _model = model;
         _view = view;
@@ -16,6 +17,7 @@ public class ControllerProgram
         _labelStudent = labelStudent;
     }
 
+    // запуск программы
     public void Run()
     {
         bool getNewIteration = true;
