@@ -34,7 +34,10 @@ namespace Solid
             //Выводим рассчитаную допустимую скорость в зависимости от транспорта
             Console.WriteLine($"Maximum machine speed: {SpeedCalculation.CalculateAllowedSpeed(car)}");
             Console.WriteLine($"Maximum bus speed: {SpeedCalculation.CalculateAllowedSpeed(bus)}");
-
+            
+            
+            //Остальные примеры -  Interface Segregation Principle,  Liskov Substitution Principle,
+            // Dependency Inversion Principle перостые и считаю что не требуют какой-то писанины в Program =)
         }
     }
 }
