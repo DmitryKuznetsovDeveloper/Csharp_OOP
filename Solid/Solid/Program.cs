@@ -1,4 +1,5 @@
 ﻿using System.Threading.Channels;
+using Solid.LiskovSubstitutionPrinciple;
 using Solid.OpenClosedPrinciple;
 
 namespace Solid
@@ -33,7 +34,7 @@ namespace Solid
             //Выводим рассчитаную допустимую скорость в зависимости от транспорта
             Console.WriteLine($"Maximum machine speed: {SpeedCalculation.CalculateAllowedSpeed(car)}");
             Console.WriteLine($"Maximum bus speed: {SpeedCalculation.CalculateAllowedSpeed(bus)}");
-            
+
         }
     }
 }
